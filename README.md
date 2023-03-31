@@ -1,0 +1,1 @@
+Attached are the instructions for how to solve all of the challenges that I participated in solving for the BYU 2023 Team CTF. I was not the one to end up solving some of these, so loads of credit to my teammates. Each of the folders represents a challenge, and share the same name as the challenge.
